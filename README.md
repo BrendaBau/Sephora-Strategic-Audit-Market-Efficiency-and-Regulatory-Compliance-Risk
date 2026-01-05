@@ -1,0 +1,3 @@
+This project performed an analysis of the Sephora product catalog, evaluating both Market Efficiency (Pricing Strategy vs Customer Satisfaction) and Regulatory Compliance (Ingredient Safety).
+
+Using SQL for text mining and relational modeling, I audited the dataset against the "Clean at Sephora" exclusion list. The analysis revealed that high price points do not correlate with increased customer satisfaction or ingredient safety. Specifically, the audit flagged $7,762 in inventory containing "Excluded" substances such as Acrylates and Formaldehyde, predominantly within the Ultra-Luxury price tier.
